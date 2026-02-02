@@ -1,0 +1,5 @@
+Esse foi um projeto que foi proposto no 1º semestre de Ciência da Computação.
+Acontece que perdi o arquivo original, então refiz. Ficou bem melhor que o original.
+
+Pretendo no futuro fazer uma adição que salvará o histórico de resultados em um 
+arquivo .txt para ser consultado posteriormente.
