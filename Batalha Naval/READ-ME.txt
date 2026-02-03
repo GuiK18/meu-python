@@ -1,0 +1,6 @@
+Arquivo original do trabalho desenvolvido durante o 1º período, na matéria de 
+Raciocínio Algorítmico e em dupla. Infelizmente não possuo nem o GitHub nem LinkedIn
+dessa minha dupla, apenas sei que seu nome é Gabriel Schwerdth!
+
+Esse Batalha Naval foi desenvolvido utilizando a línguagem Python e roda no Terminal.
+Foi utilizado matrizes, vetores, funções, laços de repetição while/for/while True.
